@@ -1,0 +1,13 @@
+{
+  "name": "aoc2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "matt skrobols",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.17"
+  }
+}
